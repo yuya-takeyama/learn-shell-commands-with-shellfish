@@ -1,4 +1,4 @@
-subject "input.csv からサーバー名とアクセス先だけ表示しろ"
+subject "log.csv からサーバー名とアクセス先だけ表示しろ"
 
 __END__
 server1,/video.php

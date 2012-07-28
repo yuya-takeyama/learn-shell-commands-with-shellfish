@@ -1,4 +1,4 @@
-subject "input.csvを表示しろ"
+subject "log.csvを表示しろ"
 
 __END__
 server1,1343363124,30,/video.php

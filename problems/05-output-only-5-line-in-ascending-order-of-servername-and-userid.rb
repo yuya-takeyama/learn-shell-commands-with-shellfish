@@ -1,4 +1,4 @@
-subject "input.csv をサーバー名、ユーザーIDの昇順で5行だけ表示しろ"
+subject "log.csv をサーバー名、ユーザーIDの昇順で5行だけ表示しろ"
 
 __END__
 server1,1343363265,7,/video.php
